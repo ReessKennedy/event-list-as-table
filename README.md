@@ -6,3 +6,7 @@ Extends the popular Wordpress event list plugin to output events as a simple HTM
 2. Add the shortcode [events_as_table]
 3. Enjoy and modify to fit your needs. 
 
+# default output
+![image](https://raw.githubusercontent.com/ReessKennedy/event-list-as-table/master/screenshot.png)
+
+
